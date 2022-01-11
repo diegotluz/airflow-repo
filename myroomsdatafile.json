@@ -5,7 +5,7 @@
       "disableMeeting":true
    },
    {
-      "id":"{qmn-hxgr-wxk}",
+      "id":"{UUID_B}",
       "name":"WAR ROOM CDP",
       "description":"Welcome to the WAR room"
    },
@@ -17,6 +17,11 @@
    {
       "id":"{UUID_D}",
       "name":"Teste de conexão",
+      "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
+   },
+   {
+      "id":"{UUID_E}",
+      "name":"Mais um Teste de conexão",
       "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
    }
 ]
