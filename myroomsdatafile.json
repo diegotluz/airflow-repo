@@ -1,0 +1,22 @@
+[
+   {
+      "id":"{UUID_A}",
+      "name":"Lounge",
+      "disableMeeting":true
+   },
+   {
+      "id":"{qmn-hxgr-wxk}",
+      "name":"WAR ROOM CDP",
+      "description":"Welcome to the WAR room"
+   },
+   {
+      "id":"{UUID_C}",
+      "name":"Data Services",
+      "externalMeetUrl":"https://external-url-room/key-room"
+   },
+   {
+      "id":"{UUID_D}",
+      "name":"Teste de conexão",
+      "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
+   }
+]
