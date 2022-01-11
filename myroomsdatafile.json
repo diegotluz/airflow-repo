@@ -18,5 +18,10 @@
       "id":"{UUID_D}",
       "name":"Teste de conexão",
       "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
+   },
+   {
+      "id":"{UUID_F}",
+      "name":"MAIN_FORCE",
+      "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
    }
 ]
