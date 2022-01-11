@@ -20,8 +20,14 @@
       "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
    },
    {
-      "id":"{UUID_F}",
+      "id":"{UUID_E}",
       "name":"MAIN_FORCE",
       "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
+   },
+   {
+      "id":"{UUID_F}",
+      "name":"MAIN_FORCE 2",
+      "externalMeetUrl":"https://meet.google.com/qmn-hxgr-wxk"
    }
+   
 ]
